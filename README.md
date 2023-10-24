@@ -1,1 +1,1 @@
-# MemProtEcoli
+# EcoliMemProt
