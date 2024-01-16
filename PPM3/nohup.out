@@ -1,0 +1,26 @@
+At line 84 of file opm.f (unit = 5, file = 'stdin')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+#0  0x7f0cf22cb960 in ???
+#1  0x7f0cf22cc4d9 in ???
+#2  0x7f0cf252017b in ???
+#3  0x7f0cf2520752 in ???
+#4  0x7f0cf251d230 in ???
+#5  0x7f0cf2521ae5 in ???
+#6  0x7f0cf2522e55 in ???
+#7  0x555c9e122cc3 in MAIN__
+#8  0x555c9e123a6c in main
+At line 84 of file opm.f (unit = 5, file = 'stdin')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+#0  0x7f31defac960 in ???
+#1  0x7f31defad4d9 in ???
+#2  0x7f31df20117b in ???
+#3  0x7f31df201752 in ???
+#4  0x7f31df1fe230 in ???
+#5  0x7f31df202ae5 in ???
+#6  0x7f31df203e55 in ???
+#7  0x55e7c08c4cc3 in MAIN__
+#8  0x55e7c08c5a6c in main
