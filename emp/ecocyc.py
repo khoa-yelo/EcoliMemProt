@@ -67,8 +67,9 @@ class EcocycQuerier:
 
 if __name__ == "__main__":
     # Input email and password to avoid manual input:
-    # eq = EcocycQuerier("emai@stanford.edu", "password")
-    eq = EcocycQuerier("khoang99@stanford.edu", "***REMOVED***")
+    # eq = EcocycQuerier("email@stanford.edu", "password")
+    # Add your email and password below before running
+    eq = EcocycQuerier("@stanford.edu", "")
     eq.query("NUOA-MONOMER")
     res = eq.look_for(LINKED_DATABASE)
     print(res)
